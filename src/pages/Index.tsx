@@ -155,7 +155,7 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <div className="flex items-center justify-between">
-                    <span className="text-2xl font-bold text-orange-600">${product.price}</span>
+                    <span className="text-2xl font-bold text-orange-600">R{product.price}</span>
                     <Button 
                       onClick={() => addToCart(product)}
                       className="bg-orange-600 hover:bg-orange-700"
@@ -228,15 +228,15 @@ const Index = () => {
               </p>
               <div className="flex justify-center items-center space-x-8 text-gray-600">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-orange-600">50K+</div>
+                  <div className="text-2xl font-bold text-orange-600">1K+</div>
                   <div className="text-sm">Subscribers</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-orange-600">200+</div>
+                  <div className="text-2xl font-bold text-orange-600">10+</div>
                   <div className="text-sm">Episodes</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-orange-600">5 Years</div>
+                  <div className="text-2xl font-bold text-orange-600">2 Years</div>
                   <div className="text-sm">On Air</div>
                 </div>
               </div>
