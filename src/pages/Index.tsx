@@ -18,7 +18,7 @@ const Index = () => {
     {
       id: 1,
       name: "Premium Puppy Blend",
-      price: 24.99,
+      price: 459.99,
       image: "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400&h=300&fit=crop",
       description: "Nutrient-rich formula for growing puppies",
       rating: 4.8
@@ -26,7 +26,7 @@ const Index = () => {
     {
       id: 2,
       name: "Gourmet Cat Treats",
-      price: 12.99,
+      price: 239.99,
       image: "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=400&h=300&fit=crop",
       description: "Delicious salmon-flavored treats cats love",
       rating: 4.9
@@ -34,7 +34,7 @@ const Index = () => {
     {
       id: 3,
       name: "Senior Dog Formula",
-      price: 28.99,
+      price: 534.99,
       image: "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=400&h=300&fit=crop",
       description: "Specially formulated for older dogs' needs",
       rating: 4.7
@@ -42,7 +42,7 @@ const Index = () => {
     {
       id: 4,
       name: "Natural Cat Food",
-      price: 22.99,
+      price: 424.99,
       image: "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=400&h=300&fit=crop",
       description: "All-natural ingredients for healthy cats",
       rating: 4.6
